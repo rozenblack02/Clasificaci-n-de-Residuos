@@ -7,7 +7,7 @@ import helper
 
 # Configuración de la página
 st.set_page_config(
-    page_title="Clasificación de Residuos con YOLOv8",
+    page_title="Clasificación de Residuos",
     page_icon="🤖",
     layout="wide",
     initial_sidebar_state="expanded"
